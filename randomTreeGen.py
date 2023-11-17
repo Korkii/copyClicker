@@ -3,8 +3,6 @@ import random
 from pathlib import Path
 import string
 
-parentDir = "./randomFolders"
-
 
 def random_string(min_length=5, max_length=10):
     """
