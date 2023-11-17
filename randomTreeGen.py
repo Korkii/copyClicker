@@ -41,4 +41,4 @@ def generate_folder_line(baseDir: str, averNumofFolders: int, sigmaFolders: int,
     return alldirs
 
 
-generate_folder_line("RandomFolders", 10, 10, 4)
+# Use for this project: generate_folder_line("RandomFolders", 10, 10, 4)
